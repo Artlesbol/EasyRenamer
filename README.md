@@ -5,6 +5,8 @@
 
 ## 安装
 
+[release](https://github.com/Artlesbol/EasyRenamer/releases/tag/v1.0.0)
+
 下载程序，然后把它加入环境变量（[不会加入环境变量？](https://blog.csdn.net/weixin_29701553/article/details/119199452)）
 
 ## 使用
